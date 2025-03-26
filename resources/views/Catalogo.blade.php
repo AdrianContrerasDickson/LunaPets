@@ -14,7 +14,7 @@
       max-width: 1000px;
       margin: 20px auto;
       padding: 20px;
-      background-color: white;
+      background-color: red;
       border-radius: 8px;
       text-align: center;
     }
